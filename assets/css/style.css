@@ -32,7 +32,31 @@
     color: var(--blue);
 }
 
+.grid {
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: var(--yellow);
+    color: white;
+    border: 6px solid;
+    border-color: var(--pink);
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+
+.tile-cell {
+    border: 6px solid;
+    border-color: var(--pink);
+    border-radius: 2px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .button-container {
     font-family: var(--small-font);
     text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
