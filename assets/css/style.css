@@ -14,3 +14,25 @@
     --yellow: #fdcb50;
     --pink: #fd7da0;
 }
+
+.title {
+    font-family: var(--main-font);
+    font-size: 4rem;
+    font-weight: 650;
+    text-align: center;
+    padding-top: 5%;
+    color: var(--blue);
+}
+
+.slogan {
+    font-family: var(--small-font);
+    font-size: 1.3rem;
+    font-weight: 550;
+    text-align: center;
+    color: var(--blue);
+}
+
+.button-container {
+    font-family: var(--small-font);
+    text-align: center;
+}
