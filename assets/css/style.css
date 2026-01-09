@@ -1,0 +1,20 @@
+/* Imported google fonts */
+
+/* Cinzel  */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap");
+
+/* Linden Hill  */
+@import url("https://fonts.googleapis.com/css2?family=Linden+Hill:ital@0;1&display=swap");
+
+.cinzel-main > {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.linden-hill-regular {
+    font-family: "Linden Hill", serif;
+    font-weight: 400;
+    font-style: normal;
+}
