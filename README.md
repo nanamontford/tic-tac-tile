@@ -44,6 +44,9 @@
 ## Testing 
 
 ## AI transparency 
+<details>
+  Microsoft Copilot automatic commit message generator in Github was used. 
+</details>
 
 ## Credits 
 <details>
