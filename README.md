@@ -13,10 +13,6 @@ View the project here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-til
 
 ## User Interface design
 <details>
-  <summary>Wire Frames</summary>
-</details>
-
-<details>
   <summary>Colors</summary>
 </details>
 
