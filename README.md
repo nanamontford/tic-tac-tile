@@ -20,6 +20,7 @@
 
 <details>
   <summary>Fonts</summary>
+  Cinzel was used as the primary font. It was used for the main headers and the reset button text. This serif font was chosen for its resemblance to chiselled tablet typography found on ancient Greek and Roman stone tablets. This similarity is in keeping with the mosaic tile theme, as this art style is most commonly attributed to those historical cultures. Linden Hill, another serif font, was chosen for the lesser header and paragraphs for its harmony with Cinzel. Both fonts were sourced via Google Fonts. 
 </details>
 
 <details>
@@ -45,7 +46,7 @@
 
 ## AI transparency 
 <details>
-  Microsoft Copilot automatic commit message generator in Github was used. 
+  Microsoft Copilot automatic commit message generator in GitHub was used. 
 </details>
 
 ## Credits 
