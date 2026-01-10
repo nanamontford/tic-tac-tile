@@ -2,6 +2,8 @@
 
 ## Overview 
 
+View the project here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-tile/)
+
 ## Table of Contents 
 
 ## User Stories 
@@ -41,7 +43,7 @@
 </details>
 
 ## Deployment 
-The live project is here: 
+The live project is here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-tile/)
 <details>
   The site was deployed to GitHub Pages. The steps to deploy are as follows: 
 - Go to the Settings tab of your GitHub repo.
