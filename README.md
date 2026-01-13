@@ -14,6 +14,7 @@ View the project here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-til
 ## User Interface design
 <details>
   <summary>Colors</summary>
+  ![color pallette for tic tac tile: orange, pink, yellow, light and dark blue along with black and white](assets/images/tic-tac-tile-colors.png)
 </details>
 
 <details>
