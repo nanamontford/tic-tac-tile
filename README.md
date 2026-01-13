@@ -15,6 +15,7 @@ View the project here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-til
 <details>
   <summary>Colors</summary>
   <img width="1600" height="1200" alt="tic-tac-tile-colors" src="https://github.com/user-attachments/assets/24cffd72-cd60-4d91-ab3a-e540a347921e" /> <br>
+  To ensure harmony, the colours were directly based on those found in the tiles. Bright colours are often found in mosaics, both modern and ancient, so the choices reflected the theme. Each colour was tested for accessibility both with eachother and with black and white, which influenced the pairings. For example, the yellow was never directly paired with white, as it failed accessibility testing. However, colours like the dark blue stood out against the white, which influenced the choice to use this colour in the headings and main text. 
   
 </details>
 
@@ -60,7 +61,8 @@ The live project is here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-
 
 ## AI transparency 
 <details>
-  Microsoft Copilot automatic commit message generator in GitHub was used. 
+  Microsoft Copilot automatic commit message generator in GitHub was used. However, all commits from VS Code were written by me with no input from AI. There is also no AI-generated code in this project, nor was it used for debugging, as this project was undertaken to challenge my front-end skills (HTML, CSS, and JavaScript), so its use would have undermined this goal. 
+  
 </details>
 
 ## Credits 
