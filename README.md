@@ -1,7 +1,5 @@
 # Tic Tac Tile 
 
-## Overview 
-
 View the project here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-tile/)
 
 ## Table of Contents 
