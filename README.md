@@ -68,6 +68,7 @@ The live project is here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-
   <summary>Technologies Used</summary>
   Front End: HTML, CSS, JavaScript 
   Design: Google Fonts, Font Awesome, Coolors, Figma
+  Framework: Bootstrap
 </details>
 <details>
   <summary>Resources and Documentation</summary>
