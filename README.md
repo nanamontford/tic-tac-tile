@@ -27,6 +27,11 @@ View the project here: [Tic Tac Tile](https://nanamontford.github.io/tic-tac-til
   <summary>Responsiveness</summary>
 </details>
 
+<details>
+  <summary>Accessibility</summary>
+  ARIA labelling is used throughout to align with accessibility requirements. For example, each individual cell is labelled with a row number and placement (left, centre or right). 
+</details>
+
 ## Features 
 <details>
   <summary>Navigation Bar</summary>
